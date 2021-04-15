@@ -156,7 +156,12 @@
     "tagIdOnDrop": "350381848033099776"
   },
   {
-    "name": "?????",
+    "name": "ShoMasterMor",
+    "allyCode": "999362423",
+    "tagIdOnDrop": "328237872220209164"
+  },
+  {
+    "name": "ENJAY",
     "allyCode": "571969656",
     "tagIdOnDrop": "338557687518199810"
   },
@@ -191,7 +196,7 @@
     "userIcon": ":skull_crossbones:"
   },
   {
-    "name": "??? ?? ????",
+    "name": "чуи мы дома",
     "allyCode": "683682889",
     "userIcon": ":skull_crossbones:"
   },
@@ -281,11 +286,6 @@
     "name": "mu",
     "allyCode": "944666415",
     "userIcon": ":skull_crossbones:"
-  },
-  {
-    "name": "ShoMasterMor",
-    "allyCode": "999362423",
-    "tagIdOnDrop": "328237872220209164"
   },
   {
     "name": "Chewbella",
