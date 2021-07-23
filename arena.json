@@ -65,11 +65,6 @@
     "tagIdOnDrop": "359402284976701443"
   },
   {
-    "name": "Purimuri",
-    "allyCode": "725382444",
-    "tagIdOnDrop": "487634202100105237"
-  },
-  {
     "name": "Mysterious Stranger",
     "allyCode": "657784921",
     "tagIdOnDrop": "413613513781542923"
@@ -375,6 +370,11 @@
   {
     "name": "Dinies",
     "allyCode": "638994657",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "Purimuri",
+    "allyCode": "725382444",
     "userIcon": ":skull_crossbones:"
   },
   {
